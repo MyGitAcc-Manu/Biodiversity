@@ -59,11 +59,5 @@ This project was also able to answer some of the questions first posed in the be
     - While mammals and Birds did not have significant difference in conservation percentage, mammals and reptiles exhibited a statistically significant difference.
 - Which animal is most prevalent and what is their distribution amongst parks?
     - the study found that bats occurred the most number of times and they were most likely to be found in Yellowstone National Park.
-
-   
-
-### Evaluation
-
-Lastly, it's a good idea to revisit the goals and check if the output of the analysis corresponds to the questions first set to be answered (in the goals section). This section will also reflect on what has been learned through the process, and if any of the questions were unable to be answered. This could also include limitations or if any of the analysis could have been done using different methodologies.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
